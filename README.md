@@ -36,7 +36,10 @@ To run the chatbot, execute the following command:
 ```
 python src/main.py
 ```
-
+To run the chatbot web application, execute the following command:
+```
+python src/app.py
+```
 The chatbot will prompt you for questions related to CDPs and provide answers based on the information processed from the documentation.
 
 ## Features
